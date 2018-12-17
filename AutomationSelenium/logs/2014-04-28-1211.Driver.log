@@ -1,0 +1,8 @@
+2014-04-28 12:11:18,700 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+2014-04-28 12:11:19,064 INFO  [Driver] Reading test case list........ 
+2014-04-28 12:11:19,064 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-04-28 12_11_18 
+2014-04-28 12:11:43,439 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+2014-04-28 12:11:43,539 INFO  [Driver] Executing(LoginWithValidData) 
+2014-04-28 12:11:43,540 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+2014-04-28 12:11:43,541 INFO  [Driver] LoginWithValidData test case has prerequisite set to : 
+2014-04-28 12:11:43,541 INFO  [Driver] Running...  

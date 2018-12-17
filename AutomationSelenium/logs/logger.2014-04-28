@@ -1,0 +1,37 @@
+28Apr2014 11:21:45,580 ERROR [Driver] Please check the Global.properties file path 
+28Apr2014 11:22:00,709 ERROR [Driver] Please check the Global.properties file path 
+28Apr2014 11:22:58,072 ERROR [Driver] Please check the Global.properties file path 
+28Apr2014 11:25:05,378 ERROR [Driver] Please check the Global.properties file path 
+28Apr2014 11:27:25,327 ERROR [Driver] Please check the Global.properties file path 
+28Apr2014 11:40:49,625 ERROR [Driver] Please check the Global.properties file path 
+28Apr2014 12:03:57,167 ERROR [Driver] Please check the Global.properties file path 
+28Apr2014 12:08:00,038 FATAL [Driver] Error in Locator file path 
+ 
+28Apr2014 12:08:00,039 FATAL [Driver] message :D:\Cassini_Automation\CassiniAutomationSelenium\seleniumAutomationDashboard\configFiles\Global.properties (The system cannot find the path specified.)[Ljava.lang.StackTraceElement;@7376223a 
+28Apr2014 12:11:18,700 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+28Apr2014 12:11:19,064 INFO  [Driver] Reading test case list........ 
+28Apr2014 12:11:19,064 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-04-28 12_11_18 
+28Apr2014 12:11:43,439 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+28Apr2014 12:11:43,539 INFO  [Driver] Executing(LoginWithValidData) 
+28Apr2014 12:11:43,540 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+28Apr2014 12:11:43,541 INFO  [Driver] LoginWithValidData test case has prerequisite set to : 
+28Apr2014 12:11:43,541 INFO  [Driver] Running...  
+28Apr2014 12:14:10,161 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+28Apr2014 12:14:10,409 INFO  [Driver] Reading test case list........ 
+28Apr2014 12:14:10,409 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-04-28 12_14_10 
+28Apr2014 12:14:20,408 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+28Apr2014 12:14:20,455 INFO  [Driver] Executing(LoginWithValidData) 
+28Apr2014 12:14:20,455 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+28Apr2014 12:14:20,456 INFO  [Driver] Running......... LoginWithValidData 
+28Apr2014 12:14:20,457 INFO  [Driver] Execution Steps 5 
+28Apr2014 12:14:57,718 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.name: submitBtn
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '9.65.213.88', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 
+28Apr2014 12:15:27,864 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.id: dijit_layout_BorderContainer_0
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '9.65.213.88', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 
+28Apr2014 12:15:27,865 ERROR [Driver] Element not Present :left_panel 
+28Apr2014 12:15:27,865 INFO  [Driver] Logout on exit set to LoginWithValidData 
+28Apr2014 12:15:27,865 INFO  [Driver] Execution Steps 2 

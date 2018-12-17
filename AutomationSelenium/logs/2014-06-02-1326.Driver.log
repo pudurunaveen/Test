@@ -1,0 +1,16 @@
+2014-06-02 13:26:03,434 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+2014-06-02 13:26:03,445 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+2014-06-02 13:26:03,499 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+2014-06-02 13:26:03,898 INFO  [Driver] Reading test case list........ 
+2014-06-02 13:26:03,899 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-02 13_26_03 
+2014-06-02 13:26:03,926 INFO  [Driver] Reading test case list........ 
+2014-06-02 13:26:03,927 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-02 13_26_03 
+2014-06-02 13:26:04,149 INFO  [Driver] Reading test case list........ 
+2014-06-02 13:26:04,150 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-02 13_26_03 
+2014-06-02 13:26:13,690 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+2014-06-02 13:26:13,919 INFO  [Driver] Executing(LoginWithValidData) 
+2014-06-02 13:26:13,919 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+2014-06-02 13:26:13,920 INFO  [Driver] Running......... LoginWithValidData 
+2014-06-02 13:26:13,921 INFO  [Driver] Execution Steps 5 
+2014-06-02 13:26:30,682 INFO  [Driver] Logout on exit set to LoginWithValidData 
+2014-06-02 13:26:30,683 INFO  [Driver] Execution Steps 2 

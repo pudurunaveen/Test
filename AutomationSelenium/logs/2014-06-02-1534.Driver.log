@@ -1,0 +1,19 @@
+2014-06-02 15:34:08,387 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+2014-06-02 15:34:08,619 INFO  [Driver] Reading test case list........ 
+2014-06-02 15:34:08,619 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-02 15_34_08 
+2014-06-02 15:34:17,718 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+2014-06-02 15:34:17,855 INFO  [Driver] Executing(LoginWithValidData) 
+2014-06-02 15:34:17,855 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+2014-06-02 15:34:17,856 INFO  [Driver] Running......... LoginWithValidData 
+2014-06-02 15:34:17,857 INFO  [Driver] Execution Steps 5 
+2014-06-02 15:34:51,053 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.name: submitBtn
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '10.233.17.133', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 
+2014-06-02 15:35:21,084 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.id: dijit_layout_BorderContainer_0
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '10.233.17.133', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 
+2014-06-02 15:35:21,085 ERROR [Driver] Element not Present :left_panel 
+2014-06-02 15:35:21,085 INFO  [Driver] Logout on exit set to LoginWithValidData 
+2014-06-02 15:35:21,085 INFO  [Driver] Execution Steps 2 

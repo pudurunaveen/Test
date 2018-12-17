@@ -1,0 +1,12 @@
+2014-06-04 17:43:09,806 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+2014-06-04 17:43:10,092 INFO  [Driver] Reading test case list........ 
+2014-06-04 17:43:10,092 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-04 17_43_09 
+2014-06-04 17:43:20,126 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+2014-06-04 17:43:20,163 INFO  [Driver] Executing(LoginWithValidData) 
+2014-06-04 17:43:20,163 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+2014-06-04 17:43:20,164 INFO  [Driver] Running......... LoginWithValidData 
+2014-06-04 17:43:20,165 INFO  [Driver] Execution Steps 5 
+2014-06-04 17:43:55,668 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.name: submitBtn
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '10.233.17.133', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 

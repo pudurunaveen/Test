@@ -1,0 +1,6 @@
+09Jun2014 12:39:26,967 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+09Jun2014 12:39:30,927 INFO  [Driver] Reading test case list........ 
+09Jun2014 14:27:26,106 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+09Jun2014 16:25:10,880 FATAL [Driver] Error in Locator file path 
+ 
+09Jun2014 16:25:10,880 FATAL [Driver] message :D:\eclipse-jee-galileo-win32\CassiniAutomationSelenium\configFiles\Global.properties (The system cannot find the path specified.)[Ljava.lang.StackTraceElement;@46bf7bbf 

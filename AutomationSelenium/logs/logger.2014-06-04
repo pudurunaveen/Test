@@ -1,0 +1,68 @@
+02Jun2014 12:25:39,449 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+02Jun2014 12:25:40,153 INFO  [Driver] Reading test case list........ 
+02Jun2014 12:25:40,154 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-02 12_25_39 
+02Jun2014 12:25:51,801 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+02Jun2014 12:25:51,845 INFO  [Driver] Executing(LoginWithValidData) 
+02Jun2014 12:25:51,846 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+02Jun2014 12:25:51,846 INFO  [Driver] Running......... LoginWithValidData 
+02Jun2014 12:25:51,847 INFO  [Driver] Execution Steps 5 
+02Jun2014 12:26:28,928 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.name: submitBtn
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '10.233.17.133', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 
+02Jun2014 12:26:59,063 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.id: dijit_layout_BorderContainer_0
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '10.233.17.133', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 
+02Jun2014 12:26:59,064 ERROR [Driver] Element not Present :left_panel 
+02Jun2014 12:26:59,064 INFO  [Driver] Logout on exit set to LoginWithValidData 
+02Jun2014 12:26:59,064 INFO  [Driver] Execution Steps 2 
+02Jun2014 13:26:03,434 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+02Jun2014 13:26:03,445 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+02Jun2014 13:26:03,499 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+02Jun2014 13:26:03,898 INFO  [Driver] Reading test case list........ 
+02Jun2014 13:26:03,899 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-02 13_26_03 
+02Jun2014 13:26:03,926 INFO  [Driver] Reading test case list........ 
+02Jun2014 13:26:03,927 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-02 13_26_03 
+02Jun2014 13:26:04,149 INFO  [Driver] Reading test case list........ 
+02Jun2014 13:26:04,150 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-02 13_26_03 
+02Jun2014 13:26:13,690 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+02Jun2014 13:26:13,919 INFO  [Driver] Executing(LoginWithValidData) 
+02Jun2014 13:26:13,919 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+02Jun2014 13:26:13,920 INFO  [Driver] Running......... LoginWithValidData 
+02Jun2014 13:26:13,921 INFO  [Driver] Execution Steps 5 
+02Jun2014 13:26:30,682 INFO  [Driver] Logout on exit set to LoginWithValidData 
+02Jun2014 13:26:30,683 INFO  [Driver] Execution Steps 2 
+02Jun2014 15:34:08,387 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+02Jun2014 15:34:08,619 INFO  [Driver] Reading test case list........ 
+02Jun2014 15:34:08,619 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-02 15_34_08 
+02Jun2014 15:34:17,718 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+02Jun2014 15:34:17,855 INFO  [Driver] Executing(LoginWithValidData) 
+02Jun2014 15:34:17,855 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+02Jun2014 15:34:17,856 INFO  [Driver] Running......... LoginWithValidData 
+02Jun2014 15:34:17,857 INFO  [Driver] Execution Steps 5 
+02Jun2014 15:34:51,053 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.name: submitBtn
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '10.233.17.133', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 
+02Jun2014 15:35:21,084 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.id: dijit_layout_BorderContainer_0
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '10.233.17.133', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 
+02Jun2014 15:35:21,085 ERROR [Driver] Element not Present :left_panel 
+02Jun2014 15:35:21,085 INFO  [Driver] Logout on exit set to LoginWithValidData 
+02Jun2014 15:35:21,085 INFO  [Driver] Execution Steps 2 
+04Jun2014 17:43:09,806 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+04Jun2014 17:43:10,092 INFO  [Driver] Reading test case list........ 
+04Jun2014 17:43:10,092 INFO  [Driver] Initializing reports for TestSuite TestSuite-2014-06-04 17_43_09 
+04Jun2014 17:43:20,126 INFO  [Driver] Opening firefox WebDriver URL:https://10.44.185.104:16311/ibm/console/logon.jsp 
+04Jun2014 17:43:20,163 INFO  [Driver] Executing(LoginWithValidData) 
+04Jun2014 17:43:20,163 INFO  [Driver] Browser name :firefox24.1.1, Platform :XP, OS :Windows 7, Version :6.1, Arch :x86 
+04Jun2014 17:43:20,164 INFO  [Driver] Running......... LoginWithValidData 
+04Jun2014 17:43:20,165 INFO  [Driver] Execution Steps 5 
+04Jun2014 17:43:55,668 ERROR [Driver] Timed out after 30 seconds waiting for visibility of element located by By.name: submitBtn
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'PSHY0175', ip: '10.233.17.133', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: unknown 
+04Jun2014 17:53:50,168 INFO  [Driver] Loading test case from ..."D:\Cassini_Automation\CassiniAutomationSelenium\TestCases\TestSuite.xls" 
+04Jun2014 17:54:11,403 INFO  [Driver] Reading test case list........ 
