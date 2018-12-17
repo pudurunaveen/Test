@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is CA69-45E0
+
+ Directory of D:\Soft\Git\Test
+
+16-12-2018  16:59    <DIR>          .
+16-12-2018  16:59    <DIR>          ..
+16-12-2018  16:59                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  29,220,073,472 bytes free
